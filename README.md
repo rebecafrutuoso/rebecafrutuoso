@@ -20,6 +20,7 @@ Além da programação, gosto da area de desing e possuo uma graduação tecnol�
   
   ##
 <div> 
+<h3> Contatos: </h3>
   <a href = "mailto:rebecacosta.012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
@@ -27,4 +28,3 @@ Além da programação, gosto da area de desing e possuo uma graduação tecnol�
  
 </div>
  
- ![snake gif](https://github.com/rebecafrutuoso/rebecafrutuoso/blob/main/.github/workflows/cobrinha.yml)
