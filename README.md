@@ -20,11 +20,11 @@ Além da programação, gosto da area de desing e possuo uma graduação tecnol�
   
   ##
 <div> 
-<h3>Contributions in the last year</h3>
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
-<div>
-  <h3>Contact:</h3>
   <a href = "mailto:rebecacosta.012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+ 
 </div>
+ 
+ ![snake gif](https://github.com/rebecafrutuoso/rebecafrutuoso/blob/main/.github/workflows/cobrinha.yml)
