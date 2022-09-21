@@ -4,8 +4,8 @@ Eu sou a Rebeca e estou no meu processo de aprendizagem para me tornar uma desen
 Além da programação, gosto da area de desing e possuo uma graduação tecnológica em desing de moda. Predento desenvolver as minhas habilidades de design gráfico junto as linguagens de progração, para que possa realizar um excelente front-end.<p>
 <div align="center">
   <a href="https://github.com/rebecafrutuoso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecafrutuoso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecafrutuoso&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rebecafrutuoso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecafrutuoso&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ##
