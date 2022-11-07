@@ -1,6 +1,6 @@
 ## Seja bem-vindo ao meu GitHub!
 <p style= align= justify>
-Eu sou a Rebeca e estou no meu processo de aprendizagem para me tornar uma desenvolvedora full stack. Meu primeiro contato com a programação se iniciou em maio de 2022 com o curso de programação full stack oferecido pela Recode Pro. Sou umas 457 alunas selecionas após um hacktoon de 2 dias.
+Eu sou a Rebeca e estou no meu processo de aprendizagem para me tornar uma desenvolvedora full stack. Meu primeiro contato com a programação se iniciou em maio de 2022 com o curso de programação full stack oferecido pela Recode Pro. Sou uum dos 457 alunos selecionados após um hacktoon de 3 dias.
 Além da programação, gosto da area de desing e possuo uma graduação tecnológica em desing de moda. Predento desenvolver as minhas habilidades de design gráfico junto as linguagens de progração, para que possa realizar um excelente front-end.<p>
 <div align="center">
   <a href="https://github.com/rebecafrutuoso">
