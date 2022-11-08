@@ -1,14 +1,12 @@
 ## Seja bem-vindo ao meu GitHub!
 <p style= align= justify>
-Eu sou a Rebeca e estou no meu processo de aprendizagem para me tornar uma desenvolvedora full stack. Meu primeiro contato com a programação se iniciou em maio de 2022 com o curso de programação full stack oferecido pela Recode Pro. Sou uum dos 457 alunos selecionados após um hacktoon de 3 dias.
-Além da programação, gosto da area de desing e possuo uma graduação tecnológica em desing de moda. Predento desenvolver as minhas habilidades de design gráfico junto as linguagens de progração, para que possa realizar um excelente front-end.<p>
+Eu sou a Rebeca e estou no meu processo de aprendizagem para me tornar uma desenvolvedora full stack. Meu primeiro contato com a programação se iniciou em maio de 2022 com o curso de programação full stack oferecido pela Recode Pro. Faço parte dos 457 alunos selecionados após um hacktoon de 3 dias.
+Além da programação, gosto da area de desing e possuo uma graduação tecnológica em desing de moda. Predento desenvolver as minhas habilidades de design gráfico junto as linguagens de progração, pois viso uma carreira no mercado da tecnológia.
 <div align="center">
   <a href="https://github.com/rebecafrutuoso">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rebecafrutuoso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecafrutuoso&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rebecafrutuoso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecafrutuoso&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-##
  <h3>Linguagens que estou apredendo:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
