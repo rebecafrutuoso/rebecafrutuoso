@@ -1,16 +1,17 @@
 ## Seja bem-vindo ao meu GitHub!
 <p style= align= justify>
-Olá, eu sou a Rebeca e estou no processo de aprendizagem para me tornar uma desenvolvedora Fullstack. Meu primeiro contato com a programação se iniciou em maio de 2022, com o curso de programação Fullstack oferecido pela Recode com a carga horária de 570 horas. Sou uma dos 457 alunos selecionados após um hacktoon de 3 dias.</p>
+Olá, eu sou a Rebeca e estou no processo de aprendizagem para me tornar uma desenvolvedora Fullstack.</p>
+Meu primeiro contato com a programação se iniciou em maio de 2022, com o curso de programação Fullstack oferecido pela Recode com a carga horária de 570 horas.
+<p>Atualmente tenho estudado atráves de vídeo aulas pelo youtube.</p>
  <div align="center">
   <a href="https://github.com/rebecafrutuoso">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rebecafrutuoso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecafrutuoso&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rebecafrutuoso&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecafrutuoso&layout=compact&langs_count=7&theme=swift"/>
 </div> <br>
-<p style= align= justify>Com o bootcamp, estou conhecendo e desenvolvendo projetos com HTML, CSS, Bootstrap, Java, Java Script, SQL, MySQL, React e outras tecnologias. Também conheço metodologias como PDCA, SCRUM, DevOps e Design Thinking.
+<p style= align= justify>Com o bootcamp da recode, conheci e desenvolvi projetos com HTML, CSS, Bootstrap, Java, Java Script, SQL, MySQL, React e outras tecnologias. Também conheço metodologias como PDCA, SCRUM, DevOps e Design Thinking.
 Duarante o meu processo de aprendizagem, identifiquei que possuo mais facilidade com o Front End, pois consigo desenvolver minhas habilidades de design.
-Predento continuar estudando e me desenvolvendo como programadora full stack, pois compreendo a importância de saber e entender a programação por completo.
 </p>
-<h3>Linguagens que estou aprendendo:</h3>
+<h3>Linguagens em que estou me desenvolvendo:</h3>
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
