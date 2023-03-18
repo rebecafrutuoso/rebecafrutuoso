@@ -1,7 +1,7 @@
 ## Seja bem-vindo ao meu GitHub!
 <p style= align= justify>
 Olá, eu sou a Rebeca e estou no processo de aprendizagem para me tornar uma desenvolvedora Fullstack.</p>
-Meu primeiro contato com a programação se iniciou em maio de 2022, com o curso de programação Fullstack oferecido pela Recode com a carga horária de 570 horas.
+Meu primeiro contato com a programação se iniciou em maio de 2022, com o curso de programação Fullstack oferecido pela Recode com a carga horária de 540 horas.
 <p>Atualmente tenho estudado atráves de vídeo aulas pelo youtube.</p>
  <div align="center">
   <a href="https://github.com/rebecafrutuoso">
